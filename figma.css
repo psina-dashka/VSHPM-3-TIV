@@ -1,0 +1,1893 @@
+/* Главная */
+
+position: relative;
+width: 1440px;
+height: 3771px;
+
+background: #FFFFFF;
+border-radius: 20px;
+
+
+/* 01 2 */
+
+position: absolute;
+width: 1465px;
+height: 1116px;
+left: -25px;
+top: -315px;
+
+background: linear-gradient(0deg, rgba(104, 104, 104, 0.5), rgba(104, 104, 104, 0.5)), url(01.jpg);
+
+
+/* Rectangle 9 */
+
+position: absolute;
+width: 1440px;
+height: 121px;
+left: 0px;
+top: 0px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 37px rgba(0, 0, 0, 0.05);
+
+
+/* Rectangle 67 */
+
+position: absolute;
+width: 1440px;
+height: 353px;
+left: 0px;
+top: 3460px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 37px rgba(0, 0, 0, 0.05);
+
+
+/* Rectangle 68 */
+
+position: absolute;
+width: 1440px;
+height: 96px;
+left: 0px;
+top: 3675px;
+
+background: #262626;
+box-shadow: 0px 4px 37px rgba(0, 0, 0, 0.05);
+
+
+/* Rectangle 4 */
+
+position: absolute;
+visibility: hidden;
+width: 1440px;
+height: 119px;
+left: 0px;
+top: 0px;
+
+background: #FFFFFF;
+
+
+/* Главная Тест Каталог О нас Цены */
+
+position: absolute;
+width: 538px;
+height: 18px;
+left: 453px;
+top: 53px;
+
+font-family: 'Montserrat Alternates';
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 18px;
+
+color: #BD7048;
+
+
+
+/* Главная Тест О нас Цены */
+
+position: absolute;
+width: 122px;
+height: 88px;
+left: 476px;
+top: 3511px;
+
+font-family: 'Montserrat Alternates';
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 18px;
+
+color: rgba(59, 59, 59, 0.5);
+
+
+
+/* (с) 2022. Все права защищены. */
+
+position: absolute;
+width: 244px;
+height: 17px;
+left: 620px;
+top: 3716px;
+
+font-family: 'Montserrat Alternates';
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 18px;
+
+color: #FFFFFF;
+
+
+
+/* Политика конфиденциальности Условия пользования */
+
+position: absolute;
+width: 274px;
+height: 41px;
+left: 727px;
+top: 3511px;
+
+font-family: 'Montserrat Alternates';
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 18px;
+
+color: rgba(33, 33, 33, 0.5);
+
+
+
+/* +7 700 505 3000 */
+
+position: absolute;
+width: 126px;
+height: 18px;
+left: 1186px;
+top: 51px;
+
+font-family: 'Montserrat Alternates';
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 18px;
+
+color: #3B3B3B;
+
+
+
+/* +7 700 505 30 00 */
+
+position: absolute;
+width: 131px;
+height: 18px;
+left: 1186px;
+top: 3509px;
+
+font-family: 'Montserrat Alternates';
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 18px;
+
+color: #3B3B3B;
+
+
+
+/* с 9:00 до 18:00 */
+
+position: absolute;
+width: 112px;
+height: 18px;
+left: 1197px;
+top: 71px;
+
+font-family: 'Montserrat Alternates';
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 18px;
+
+color: rgba(59, 59, 59, 0.5);
+
+
+
+/* с 9:00 до 18:00 */
+
+position: absolute;
+width: 112px;
+height: 17px;
+left: 1197px;
+top: 3529px;
+
+font-family: 'Montserrat Alternates';
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 18px;
+
+color: rgba(59, 59, 59, 0.5);
+
+
+
+/* дизайн интерьера */
+
+position: absolute;
+width: 104px;
+height: 12px;
+left: 136px;
+top: 66px;
+
+font-family: 'Montserrat Alternates';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 12px;
+
+color: #000000;
+
+
+
+/* Simple Design */
+
+position: absolute;
+width: 113px;
+height: 18px;
+left: 134px;
+top: 46px;
+
+font-family: 'Montserrat Alternates';
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 18px;
+
+color: #000000;
+
+
+
+/* Дизайн-проект для вашей квартиры за 2 недели и 199 000 ₸ */
+
+position: absolute;
+width: 846px;
+height: 98px;
+left: 297px;
+top: 285px;
+
+font-family: 'Montserrat Alternates';
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 49px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Как это работает? */
+
+position: absolute;
+width: 497px;
+height: 49px;
+left: 153px;
+top: 871px;
+
+font-family: 'Montserrat Alternates';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 49px;
+/* identical to box height */
+
+color: #262626;
+
+
+
+/* Дизайн комнат */
+
+position: absolute;
+width: 494px;
+height: 48px;
+left: 498px;
+top: 1515px;
+
+font-family: 'Montserrat Alternates';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 49px;
+text-align: center;
+
+color: #262626;
+
+
+
+/* 01 */
+
+position: absolute;
+width: 134px;
+height: 85px;
+left: 159px;
+top: 982px;
+
+font-family: 'Montserrat Alternates';
+font-style: normal;
+font-weight: 700;
+font-size: 70px;
+line-height: 85px;
+
+color: rgba(189, 112, 72, 0.2);
+
+
+
+/* 02 */
+
+position: absolute;
+width: 134px;
+height: 85px;
+left: 153px;
+top: 1139px;
+
+font-family: 'Montserrat Alternates';
+font-style: normal;
+font-weight: 700;
+font-size: 70px;
+line-height: 85px;
+
+color: rgba(189, 112, 72, 0.2);
+
+
+
+/* 03 */
+
+position: absolute;
+width: 134px;
+height: 85px;
+left: 153px;
+top: 1315px;
+
+font-family: 'Montserrat Alternates';
+font-style: normal;
+font-weight: 700;
+font-size: 70px;
+line-height: 85px;
+
+color: rgba(189, 112, 72, 0.2);
+
+
+
+/* Выбор состава проекта Выберите состав вашего проекта: только планировка или дизайн-проект */
+
+position: absolute;
+width: 287px;
+height: 85px;
+left: 292px;
+top: 997px;
+
+font-family: 'Montserrat Alternates';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 24px;
+
+color: #262626;
+
+
+
+/* Гостиные */
+
+position: absolute;
+width: 508px;
+height: 36px;
+left: 153px;
+top: 1696px;
+
+font-family: 'Montserrat Alternates';
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 37px;
+
+color: #262626;
+
+
+
+/* Детские */
+
+position: absolute;
+width: 508px;
+height: 36px;
+left: 153px;
+top: 2218px;
+
+font-family: 'Montserrat Alternates';
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 37px;
+
+color: #262626;
+
+
+
+/* Коридоры - прихожие */
+
+position: absolute;
+width: 508px;
+height: 36px;
+left: 153px;
+top: 2753px;
+
+font-family: 'Montserrat Alternates';
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 37px;
+
+color: #262626;
+
+
+
+/* Выбирая дизайн комнаты, вы получаете смету со списком всех предметов в интерьере, названиями, артикулами, цветом стен и так далее. */
+
+position: absolute;
+width: 1004px;
+height: 55px;
+left: 246px;
+top: 1603px;
+
+font-family: 'Montserrat Alternates';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+
+color: rgba(38, 38, 38, 0.7);
+
+
+
+/* Настройка проекта Отметьте в корзине нужен ли вам профессиональный замер, подбор строительной бригады или точный просчет сметы */
+
+position: absolute;
+width: 288px;
+height: 103px;
+left: 287px;
+top: 1155px;
+
+font-family: 'Montserrat Alternates';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 24px;
+
+color: #262626;
+
+
+
+/* Создание чертежей Наши дизайнеры спроектируют интерьер, подготовят чертежи. */
+
+position: absolute;
+width: 281px;
+height: 85px;
+left: 293px;
+top: 1327px;
+
+font-family: 'Montserrat Alternates';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 24px;
+
+color: #262626;
+
+
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 228px;
+height: 74px;
+left: 606px;
+top: 425px;
+
+background: #BD7048;
+border-radius: 100px;
+
+
+/* Консультация */
+
+position: absolute;
+width: 134px;
+height: 18px;
+left: 661px;
+top: 453px;
+
+font-family: 'Montserrat Alternates';
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 18px;
+
+color: #FFFFFF;
+
+
+
+/* Line 1 */
+
+position: absolute;
+width: 31px;
+height: 0px;
+left: 486px;
+top: 81px;
+
+border: 1px solid #BD7048;
+transform: rotate(-180deg);
+
+
+/* akar-icons:phone */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 1147px;
+top: 51px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+border: 2px solid #000000;
+
+
+/* akar-icons:phone */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 1147px;
+top: 3509px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+border: 2px solid #000000;
+
+
+/* Rectangle 71 */
+
+position: absolute;
+width: 285px;
+height: 72px;
+left: 608px;
+top: 3288px;
+
+background: #BD7048;
+border-radius: 100px;
+
+
+/* Rectangle 20 */
+
+position: absolute;
+width: 182px;
+height: 56px;
+left: 339px;
+top: 2074px;
+
+background: #FAFAFA;
+border-radius: 100px;
+
+
+/* Rectangle 26 */
+
+position: absolute;
+width: 182px;
+height: 56px;
+left: 339px;
+top: 2598px;
+
+background: #FAFAFA;
+border-radius: 100px;
+
+
+/* Rectangle 33 */
+
+position: absolute;
+width: 182px;
+height: 55px;
+left: 339px;
+top: 3133px;
+
+background: #FAFAFA;
+border-radius: 100px;
+
+
+/* Rectangle 21 */
+
+position: absolute;
+width: 182px;
+height: 56px;
+left: 751px;
+top: 2074px;
+
+background: #FAFAFA;
+border-radius: 100px;
+
+
+/* Rectangle 27 */
+
+position: absolute;
+width: 182px;
+height: 56px;
+left: 751px;
+top: 2598px;
+
+background: #FAFAFA;
+border-radius: 100px;
+
+
+/* Rectangle 34 */
+
+position: absolute;
+width: 182px;
+height: 55px;
+left: 751px;
+top: 3133px;
+
+background: #FAFAFA;
+border-radius: 100px;
+
+
+/* Rectangle 22 */
+
+position: absolute;
+width: 182px;
+height: 56px;
+left: 1160px;
+top: 2074px;
+
+background: #FAFAFA;
+border-radius: 100px;
+
+
+/* Rectangle 29 */
+
+position: absolute;
+width: 182px;
+height: 56px;
+left: 1160px;
+top: 2598px;
+
+background: #FAFAFA;
+border-radius: 100px;
+
+
+/* Rectangle 36 */
+
+position: absolute;
+width: 182px;
+height: 55px;
+left: 1160px;
+top: 3133px;
+
+background: #FAFAFA;
+border-radius: 100px;
+
+
+/* К каталогу комнат */
+
+position: absolute;
+width: 192px;
+height: 17px;
+left: 667px;
+top: 3315px;
+
+font-family: 'Montserrat Alternates';
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 18px;
+
+color: #FFFFFF;
+
+
+
+/* image 7 */
+
+position: absolute;
+width: 321px;
+height: 414px;
+left: 684px;
+top: 984px;
+
+background: url(image.png);
+border-radius: 20px;
+
+
+/* image 11 */
+
+position: absolute;
+width: 363px;
+height: 266px;
+left: 158px;
+top: 1775px;
+
+background: linear-gradient(180deg, rgba(0, 0, 0, 0.5) 0%, rgba(0, 0, 0, 0) 0.01%, rgba(0, 0, 0, 0.5) 100%), url(image.png);
+border-radius: 20px;
+
+
+/* image 16 */
+
+position: absolute;
+width: 363px;
+height: 266px;
+left: 158px;
+top: 2298px;
+
+background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.2) 100%), url(image.png);
+border-radius: 20px;
+
+
+/* image 21 */
+
+position: absolute;
+width: 363px;
+height: 266px;
+left: 158px;
+top: 2833px;
+
+background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.2) 100%), url(image.png);
+border-radius: 20px;
+
+
+/* image 12 */
+
+position: absolute;
+width: 362px;
+height: 266px;
+left: 567px;
+top: 1775px;
+
+background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.5) 100%), url(image.png);
+border-radius: 20px;
+
+
+/* image 17 */
+
+position: absolute;
+width: 362px;
+height: 266px;
+left: 567px;
+top: 2298px;
+
+background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.2) 100%), url(image.png);
+border-radius: 20px;
+
+
+/* image 22 */
+
+position: absolute;
+width: 362px;
+height: 266px;
+left: 567px;
+top: 2833px;
+
+background: url(image.png);
+border-radius: 20px;
+
+
+/* image 13 */
+
+position: absolute;
+width: 363px;
+height: 266px;
+left: 975px;
+top: 1775px;
+
+background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.5) 100%), url(image.png);
+border-radius: 20px;
+
+
+/* image 19 */
+
+position: absolute;
+width: 363px;
+height: 266px;
+left: 975px;
+top: 2298px;
+
+background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.5) 100%), url(image.png);
+border-radius: 20px;
+
+
+/* image 24 */
+
+position: absolute;
+width: 363px;
+height: 266px;
+left: 975px;
+top: 2833px;
+
+background: url(image.png);
+border-radius: 20px;
+
+
+/* Line 6 */
+
+position: absolute;
+width: 97px;
+height: 0px;
+left: 189px;
+top: 2022px;
+
+border: 2px solid #BD7048;
+
+
+/* Line 22 */
+
+position: absolute;
+width: 97px;
+height: 0px;
+left: 189px;
+top: 2545px;
+
+border: 2px solid #BD7048;
+
+
+/* Line 39 */
+
+position: absolute;
+width: 97px;
+height: 0px;
+left: 189px;
+top: 3079px;
+
+border: 2px solid #BD7048;
+
+
+/* Line 9 */
+
+position: absolute;
+width: 96px;
+height: 0px;
+left: 598px;
+top: 2022px;
+
+border: 2px solid #BD7048;
+
+
+/* Line 23 */
+
+position: absolute;
+width: 96px;
+height: 0px;
+left: 598px;
+top: 2545px;
+
+border: 2px solid #BD7048;
+
+
+/* Line 40 */
+
+position: absolute;
+width: 96px;
+height: 0px;
+left: 598px;
+top: 3079px;
+
+border: 2px solid #BD7048;
+
+
+/* Line 41 */
+
+position: absolute;
+width: 96px;
+height: 0px;
+left: -260px;
+top: 5694px;
+
+opacity: 0.5;
+border: 2px solid #BD7048;
+
+
+/* Line 12 */
+
+position: absolute;
+width: 96px;
+height: 0px;
+left: 1007px;
+top: 2022px;
+
+border: 2px solid #BD7048;
+
+
+/* Line 25 */
+
+position: absolute;
+width: 96px;
+height: 0px;
+left: 1007px;
+top: 2545px;
+
+border: 2px solid #BD7048;
+
+
+/* Line 42 */
+
+position: absolute;
+width: 96px;
+height: 0px;
+left: 1007px;
+top: 3079px;
+
+border: 2px solid #BD7048;
+
+
+/* Line 7 */
+
+position: absolute;
+width: 96px;
+height: 0px;
+left: 288px;
+top: 2022px;
+
+border: 2px solid rgba(189, 112, 72, 0.5);
+
+
+/* Line 27 */
+
+position: absolute;
+width: 96px;
+height: 0px;
+left: 288px;
+top: 2545px;
+
+border: 2px solid rgba(189, 112, 72, 0.5);
+
+
+/* Line 44 */
+
+position: absolute;
+width: 96px;
+height: 0px;
+left: 288px;
+top: 3079px;
+
+border: 2px solid rgba(189, 112, 72, 0.5);
+
+
+/* Line 10 */
+
+position: absolute;
+width: 96px;
+height: 0px;
+left: 697px;
+top: 2022px;
+
+border: 2px solid rgba(189, 112, 72, 0.5);
+
+
+/* Line 28 */
+
+position: absolute;
+width: 96px;
+height: 0px;
+left: 697px;
+top: 2545px;
+
+border: 2px solid rgba(189, 112, 72, 0.5);
+
+
+/* Line 45 */
+
+position: absolute;
+width: 96px;
+height: 0px;
+left: 697px;
+top: 3079px;
+
+border: 2px solid rgba(189, 112, 72, 0.5);
+
+
+/* Line 13 */
+
+position: absolute;
+width: 96px;
+height: 0px;
+left: 1105px;
+top: 2022px;
+
+border: 2px solid rgba(189, 112, 72, 0.5);
+
+
+/* Line 30 */
+
+position: absolute;
+width: 96px;
+height: 0px;
+left: 1105px;
+top: 2545px;
+
+border: 2px solid rgba(189, 112, 72, 0.5);
+
+
+/* Line 47 */
+
+position: absolute;
+width: 96px;
+height: 0px;
+left: 1105px;
+top: 3079px;
+
+border: 2px solid rgba(189, 112, 72, 0.5);
+
+
+/* Line 8 */
+
+position: absolute;
+width: 97px;
+height: 0px;
+left: 386px;
+top: 2022px;
+
+border: 2px solid rgba(189, 112, 72, 0.5);
+
+
+/* Line 32 */
+
+position: absolute;
+width: 97px;
+height: 0px;
+left: 386px;
+top: 2545px;
+
+border: 2px solid rgba(189, 112, 72, 0.5);
+
+
+/* Line 49 */
+
+position: absolute;
+width: 97px;
+height: 0px;
+left: 386px;
+top: 3079px;
+
+border: 2px solid rgba(189, 112, 72, 0.5);
+
+
+/* Line 11 */
+
+position: absolute;
+width: 96px;
+height: 0px;
+left: 795px;
+top: 2022px;
+
+border: 2px solid rgba(189, 112, 72, 0.5);
+
+
+/* Line 33 */
+
+position: absolute;
+width: 96px;
+height: 0px;
+left: 795px;
+top: 2545px;
+
+border: 2px solid rgba(189, 112, 72, 0.5);
+
+
+/* Line 50 */
+
+position: absolute;
+width: 96px;
+height: 0px;
+left: 795px;
+top: 3079px;
+
+border: 2px solid rgba(189, 112, 72, 0.5);
+
+
+/* Line 14 */
+
+position: absolute;
+width: 96px;
+height: 0px;
+left: 1204px;
+top: 2022px;
+
+border: 2px solid rgba(189, 112, 72, 0.5);
+
+
+/* Line 35 */
+
+position: absolute;
+width: 96px;
+height: 0px;
+left: 1204px;
+top: 2545px;
+
+border: 2px solid rgba(189, 112, 72, 0.5);
+
+
+/* Line 52 */
+
+position: absolute;
+width: 96px;
+height: 0px;
+left: 1204px;
+top: 3079px;
+
+border: 2px solid rgba(189, 112, 72, 0.5);
+
+
+/* Акварель */
+
+position: absolute;
+width: 508px;
+height: 23px;
+left: 186px;
+top: 2088px;
+
+font-family: 'Montserrat Alternates';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 24px;
+
+color: #353535;
+
+
+
+/* Синяя */
+
+position: absolute;
+width: 508px;
+height: 23px;
+left: 186px;
+top: 2612px;
+
+font-family: 'Montserrat Alternates';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 24px;
+
+color: #353535;
+
+
+
+/* Ирина */
+
+position: absolute;
+width: 508px;
+height: 24px;
+left: 186px;
+top: 3146px;
+
+font-family: 'Montserrat Alternates';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 24px;
+
+color: #353535;
+
+
+
+/* Ира */
+
+position: absolute;
+width: 508px;
+height: 23px;
+left: 598px;
+top: 2088px;
+
+font-family: 'Montserrat Alternates';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 24px;
+
+color: #353535;
+
+
+
+/* Розовая */
+
+position: absolute;
+width: 508px;
+height: 23px;
+left: 598px;
+top: 2612px;
+
+font-family: 'Montserrat Alternates';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 24px;
+
+color: #353535;
+
+
+
+/* Акварель */
+
+position: absolute;
+width: 508px;
+height: 24px;
+left: 598px;
+top: 3146px;
+
+font-family: 'Montserrat Alternates';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 24px;
+
+color: #353535;
+
+
+
+/* Ира */
+
+position: absolute;
+width: 508px;
+height: 24px;
+left: -260px;
+top: 5747px;
+
+font-family: 'Montserrat Alternates';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 24px;
+
+color: #353535;
+
+opacity: 0.5;
+
+
+/* Ира */
+
+position: absolute;
+width: 508px;
+height: 24px;
+left: -260px;
+top: 6295px;
+
+font-family: 'Montserrat Alternates';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 24px;
+
+color: #353535;
+
+opacity: 0.5;
+
+
+/* Ира */
+
+position: absolute;
+width: 508px;
+height: 24px;
+left: -260px;
+top: 6816px;
+
+font-family: 'Montserrat Alternates';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 24px;
+
+color: #353535;
+
+opacity: 0.5;
+
+
+/* Ира */
+
+position: absolute;
+width: 508px;
+height: 24px;
+left: -260px;
+top: 7330px;
+
+font-family: 'Montserrat Alternates';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 24px;
+
+color: #353535;
+
+opacity: 0.5;
+
+
+/* Нурс */
+
+position: absolute;
+width: 508px;
+height: 23px;
+left: 1007px;
+top: 2088px;
+
+font-family: 'Montserrat Alternates';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 24px;
+
+color: #353535;
+
+
+
+/* Яркая */
+
+position: absolute;
+width: 508px;
+height: 23px;
+left: 1007px;
+top: 2612px;
+
+font-family: 'Montserrat Alternates';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 24px;
+
+color: #353535;
+
+
+
+/* Кадыр */
+
+position: absolute;
+width: 508px;
+height: 24px;
+left: 1007px;
+top: 3146px;
+
+font-family: 'Montserrat Alternates';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 24px;
+
+color: #353535;
+
+
+
+/* Выбрать */
+
+position: absolute;
+width: 131px;
+height: 17px;
+left: 407px;
+top: 2093px;
+
+font-family: 'Montserrat Alternates';
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 18px;
+
+color: #BD7048;
+
+
+
+/* Выбрать */
+
+position: absolute;
+width: 131px;
+height: 17px;
+left: 407px;
+top: 2617px;
+
+font-family: 'Montserrat Alternates';
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 18px;
+
+color: #BD7048;
+
+
+
+/* Выбрать */
+
+position: absolute;
+width: 131px;
+height: 18px;
+left: 407px;
+top: 3151px;
+
+font-family: 'Montserrat Alternates';
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 18px;
+
+color: #BD7048;
+
+
+
+/* Выбрать */
+
+position: absolute;
+width: 131px;
+height: 17px;
+left: 819px;
+top: 2093px;
+
+font-family: 'Montserrat Alternates';
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 18px;
+
+color: #BD7048;
+
+
+
+/* Выбрать */
+
+position: absolute;
+width: 131px;
+height: 17px;
+left: 819px;
+top: 2617px;
+
+font-family: 'Montserrat Alternates';
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 18px;
+
+color: #BD7048;
+
+
+
+/* Выбрать */
+
+position: absolute;
+width: 131px;
+height: 18px;
+left: 819px;
+top: 3151px;
+
+font-family: 'Montserrat Alternates';
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 18px;
+
+color: #BD7048;
+
+
+
+/* Выбрать */
+
+position: absolute;
+width: 131px;
+height: 17px;
+left: 1228px;
+top: 2093px;
+
+font-family: 'Montserrat Alternates';
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 18px;
+
+color: #BD7048;
+
+
+
+/* Выбрать */
+
+position: absolute;
+width: 131px;
+height: 17px;
+left: 1228px;
+top: 2617px;
+
+font-family: 'Montserrat Alternates';
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 18px;
+
+color: #BD7048;
+
+
+
+/* Выбрать */
+
+position: absolute;
+width: 131px;
+height: 18px;
+left: 1228px;
+top: 3151px;
+
+font-family: 'Montserrat Alternates';
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 18px;
+
+color: #BD7048;
+
+
+
+/* Component 3 */
+
+position: absolute;
+width: 21px;
+height: 23px;
+left: 374px;
+top: 2088px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 30%;
+bottom: 0%;
+
+border: 2px solid #2C2C2C;
+
+
+/* Vector */
+
+position: absolute;
+left: 27.36%;
+right: 27.36%;
+top: 0%;
+bottom: 55%;
+
+border: 2px solid #2C2C2C;
+
+
+/* Component 8 */
+
+position: absolute;
+width: 21px;
+height: 23px;
+left: 374px;
+top: 2612px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 30%;
+bottom: 0%;
+
+border: 2px solid #2C2C2C;
+
+
+/* Vector */
+
+position: absolute;
+left: 27.36%;
+right: 27.36%;
+top: 0%;
+bottom: 55%;
+
+border: 2px solid #2C2C2C;
+
+
+/* Component 13 */
+
+position: absolute;
+width: 21px;
+height: 24px;
+left: 374px;
+top: 3146px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 30%;
+bottom: 0%;
+
+border: 2px solid #2C2C2C;
+
+
+/* Vector */
+
+position: absolute;
+left: 27.36%;
+right: 27.36%;
+top: 0%;
+bottom: 55%;
+
+border: 2px solid #2C2C2C;
+
+
+/* Component 4 */
+
+position: absolute;
+width: 21px;
+height: 23px;
+left: 786px;
+top: 2088px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 30%;
+bottom: 0%;
+
+border: 2px solid #2C2C2C;
+
+
+/* Vector */
+
+position: absolute;
+left: 27.36%;
+right: 27.36%;
+top: 0%;
+bottom: 55%;
+
+border: 2px solid #2C2C2C;
+
+
+/* Component 9 */
+
+position: absolute;
+width: 21px;
+height: 23px;
+left: 786px;
+top: 2612px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 30%;
+bottom: 0%;
+
+border: 2px solid #2C2C2C;
+
+
+/* Vector */
+
+position: absolute;
+left: 27.36%;
+right: 27.36%;
+top: 0%;
+bottom: 55%;
+
+border: 2px solid #2C2C2C;
+
+
+/* Component 14 */
+
+position: absolute;
+width: 21px;
+height: 24px;
+left: 786px;
+top: 3146px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 30%;
+bottom: 0%;
+
+border: 2px solid #2C2C2C;
+
+
+/* Vector */
+
+position: absolute;
+left: 27.36%;
+right: 27.36%;
+top: 0%;
+bottom: 55%;
+
+border: 2px solid #2C2C2C;
+
+
+/* Component 5 */
+
+position: absolute;
+width: 21px;
+height: 23px;
+left: 1195px;
+top: 2088px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 30%;
+bottom: 0%;
+
+border: 2px solid #2C2C2C;
+
+
+/* Vector */
+
+position: absolute;
+left: 27.36%;
+right: 27.36%;
+top: 0%;
+bottom: 55%;
+
+border: 2px solid #2C2C2C;
+
+
+/* Component 11 */
+
+position: absolute;
+width: 21px;
+height: 23px;
+left: 1195px;
+top: 2612px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 30%;
+bottom: 0%;
+
+border: 2px solid #2C2C2C;
+
+
+/* Vector */
+
+position: absolute;
+left: 27.36%;
+right: 27.36%;
+top: 0%;
+bottom: 55%;
+
+border: 2px solid #2C2C2C;
+
+
+/* Component 16 */
+
+position: absolute;
+width: 21px;
+height: 24px;
+left: 1195px;
+top: 3146px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 30%;
+bottom: 0%;
+
+border: 2px solid #2C2C2C;
+
+
+/* Vector */
+
+position: absolute;
+left: 27.36%;
+right: 27.36%;
+top: 0%;
+bottom: 55%;
+
+border: 2px solid #2C2C2C;
+
+
+/* Line 37 */
+
+position: absolute;
+width: 999px;
+height: 0px;
+left: 341px;
+top: 2237px;
+
+border: 1px solid #CBCBCB;
+
+
+/* Line 54 */
+
+position: absolute;
+width: 773px;
+height: 0px;
+left: 567px;
+top: 2771px;
+
+border: 1px solid #CBCBCB;
+
+
+/* Line 38 */
+
+position: absolute;
+width: 999px;
+height: 0px;
+left: 341px;
+top: 1714px;
+
+border: 1px solid #CBCBCB;
+
+
+/* дизайн интерьеров */
+
+position: absolute;
+width: 109px;
+height: 11px;
+left: 156px;
+top: 3531px;
+
+font-family: 'Montserrat Alternates';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 12px;
+
+color: #000000;
+
+
+
+/* Simple Design */
+
+position: absolute;
+width: 113px;
+height: 18px;
+left: 154px;
+top: 3511px;
+
+font-family: 'Montserrat Alternates';
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 18px;
+
+color: #000000;
+

@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Simple Design</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <!-- Шапка сайта -->
+  <div class="header">
+    <div class="logo">
+      <span class="logo-name">Simple Design</span>
+      <span class="logo-subtitle">дизайн интерьера</span>
+    </div>
+    <div class="nav">
+      <a href="#">Главная</a>
+      <a href="#">Тест</a>
+      <a href="#">Каталог</a>
+      <a href="#">О нас</a>
+      <a href="#">Цены</a>
+    </div>
+    <div class="contacts">
+      <svg class="phone-icon" width="22" height="22" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M9.55487 5.24101L6.17187 1.33601C5.78187 0.886007 5.06687 0.888007 4.61387 1.34201L1.83187 4.12901C1.00387 4.95801 0.766873 6.18901 1.24587 7.17601C4.10749 13.101 8.88592 17.8861 14.8069 20.756C15.7929 21.235 17.0229 20.998 17.8509 20.169L20.6589 17.356C21.1139 16.901 21.1149 16.182 20.6609 15.792L16.7409 12.427C16.3309 12.075 15.6939 12.121 15.2829 12.533L13.9189 13.899C13.849 13.9722 13.7571 14.0204 13.6572 14.0363C13.5573 14.0522 13.455 14.0349 13.3659 13.987C11.1363 12.7031 9.28686 10.8512 8.00587 8.62001C7.9579 8.53076 7.94053 8.42823 7.95643 8.32816C7.97232 8.22809 8.02061 8.136 8.09387 8.06601L9.45387 6.70501C9.86587 6.29101 9.91087 5.65101 9.55487 5.24001V5.24101Z" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+      </svg>
+      <div class="phone-info">
+        <span class="phone-number">+7 700 505 30 00</span>
+        <span class="phone-time">с 9:00 до 18:00</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- Баннер -->
+  <div class="banner">
+    <img src="assets/banner.jpg" alt="Баннер">
+    <h1>Дизайн-проект для вашей квартиры за 2 недели и 199 000 ₸</h1>
+    <button>Консультация</button>
+  </div>
+
+  <!-- Как это работает -->
+  <div class="how-it-works">
+    <div class="how-it-works-left">
+      <h2>Как это работает?</h2>
+      <div class="step">
+        <span class="step-number">01</span>
+        <div class="step-text">
+          <h3>Выбор состава проекта</h3>
+          <p>Выберите состав вашего проекта: только планировка или дизайн-проект</p>
+        </div>
+      </div>
+      <div class="step">
+        <span class="step-number">02</span>
+        <div class="step-text">
+          <h3>Настройка проекта</h3>
+          <p>Отметьте в корзине нужен ли вам профессиональный замер, подбор строительной бригады или точный просчет сметы</p>
+        </div>
+      </div>
+      <div class="step">
+        <span class="step-number">03</span>
+        <div class="step-text">
+          <h3>Создание чертежей</h3>
+          <p>Наши дизайнеры спроектируют интерьер, подготовят чертежи.</p>
+        </div>
+      </div>
+    </div>
+    <div class="how-it-works-right">
+      <img src="assets/how-it-works.png" alt="Столик">
+    </div>
+  </div>
+
+  <!-- Описание -->
+  <p class="description">Выбирая дизайн комнаты, вы получаете смету со списком всех предметов в интерьере, названиями, артикулами, цветом стен и так далее.</p>
+
+  <!-- Дизайн комнат -->
+  <h2 class="section-title">Дизайн комнат</h2>
+
+  <!-- Гостиные -->
+  <h3 class="room-title">Гостиные</h3>
+  <div class="room-divider"></div>
+  <div class="room-grid">
+    <div class="room-item">
+      <img src="assets/rooms/image 11.png" alt="Акварель">
+      <div class="room-item-info">
+        <span>Акварель</span>
+        <button>Выбрать</button>
+      </div>
+    </div>
+    <div class="room-item">
+      <img src="assets/rooms/image 12.png" alt="Ира">
+      <div class="room-item-info">
+        <span>Ира</span>
+        <button>Выбрать</button>
+      </div>
+    </div>
+    <div class="room-item">
+      <img src="assets/rooms/image 13.png" alt="Нурс">
+      <div class="room-item-info">
+        <span>Нурс</span>
+        <button>Выбрать</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Детские -->
+  <h3 class="room-title">Детские</h3>
+  <div class="room-divider"></div>
+  <div class="room-grid">
+    <div class="room-item">
+      <img src="assets/rooms/image 16.png" alt="Синяя">
+      <div class="room-item-info">
+        <span>Синяя</span>
+        <button>Выбрать</button>
+      </div>
+    </div>
+    <div class="room-item">
+      <img src="assets/rooms/image 17.png" alt="Розовая">
+      <div class="room-item-info">
+        <span>Розовая</span>
+        <button>Выбрать</button>
+      </div>
+    </div>
+    <div class="room-item">
+      <img src="assets/rooms/image 19.png" alt="Яркая">
+      <div class="room-item-info">
+        <span>Яркая</span>
+        <button>Выбрать</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Коридоры - прихожие -->
+  <h3 class="room-title">Коридоры - прихожие</h3>
+  <div class="room-divider"></div>
+  <div class="room-grid">
+    <div class="room-item">
+      <img src="assets/rooms/image 21.png" alt="Ирина">
+      <div class="room-item-info">
+        <span>Ирина</span>
+        <button>Выбрать</button>
+      </div>
+    </div>
+    <div class="room-item">
+      <img src="assets/rooms/image 22.png" alt="Акварель">
+      <div class="room-item-info">
+        <span>Акварель</span>
+        <button>Выбрать</button>
+      </div>
+    </div>
+    <div class="room-item">
+      <img src="assets/rooms/image 24.png" alt="Кадыр">
+      <div class="room-item-info">
+        <span>Кадыр</span>
+        <button>Выбрать</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Кнопка каталога -->
+  <div class="catalog-btn-container">
+    <button class="catalog-btn">К каталогу комнат</button>
+  </div>
+
+  <!-- Футер -->
+  <div class="footer">
+    <div class="footer-top">
+      <div class="footer-logo">
+        <span class="footer-logo-name">Simple Design</span>
+        <span class="footer-logo-subtitle">дизайн интерьеров</span>
+      </div>
+      <div class="footer-nav">
+        <a href="#">Главная</a>
+        <a href="#">Тест</a>
+        <a href="#">О нас</a>
+        <a href="#">Цены</a>
+      </div>
+      <div class="footer-links">
+        <a href="#">Политика конфиденциальности</a>
+        <a href="#">Условия пользования</a>
+      </div>
+      <div class="footer-contacts">
+        <svg class="phone-icon" width="22" height="22" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path d="M9.55487 5.24101L6.17187 1.33601C5.78187 0.886007 5.06687 0.888007 4.61387 1.34201L1.83187 4.12901C1.00387 4.95801 0.766873 6.18901 1.24587 7.17601C4.10749 13.101 8.88592 17.8861 14.8069 20.756C15.7929 21.235 17.0229 20.998 17.8509 20.169L20.6589 17.356C21.1139 16.901 21.1149 16.182 20.6609 15.792L16.7409 12.427C16.3309 12.075 15.6939 12.121 15.2829 12.533L13.9189 13.899C13.849 13.9722 13.7571 14.0204 13.6572 14.0363C13.5573 14.0522 13.455 14.0349 13.3659 13.987C11.1363 12.7031 9.28686 10.8512 8.00587 8.62001C7.9579 8.53076 7.94053 8.42823 7.95643 8.32816C7.97232 8.22809 8.02061 8.136 8.09387 8.06601L9.45387 6.70501C9.86587 6.29101 9.91087 5.65101 9.55487 5.24001V5.24101Z" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+        <div class="phone-info">
+          <span class="phone-number">+7 700 505 30 00</span>
+          <span class="phone-time">с 9:00 до 18:00</span>
+        </div>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <span>(с) 2022. Все права защищены.</span>
+    </div>
+  </div>
+
+</body>
+</html>
