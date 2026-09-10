@@ -1,0 +1,176 @@
+/* Мобильная версия */
+@media (max-width: 768px) {
+
+  /* Шапка сайта */
+  .header {
+    height: auto;
+    padding: 15px;
+    flex-direction: column;
+    gap: 15px;
+  }
+
+  .nav {
+    gap: 20px;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .nav a {
+    font-size: 14px;
+  }
+
+  /* Баннер */
+  .banner {
+    height: 400px;
+    margin-top: 0;
+  }
+
+  .banner h1 {
+    font-size: 24px;
+    max-width: 90%;
+    top: 30%;
+  }
+
+  .banner button {
+    padding: 18px 50px;
+    font-size: 14px;
+    top: 60%;
+  }
+
+  /* Как это работает */
+  .how-it-works {
+    flex-direction: column;
+    padding: 40px 20px;
+    gap: 40px;
+  }
+
+  .how-it-works-left {
+    width: 100%;
+  }
+
+  .how-it-works-left h2 {
+    font-size: 28px;
+    margin-bottom: 40px;
+  }
+
+  .how-it-works-right {
+    width: 100%;
+  }
+
+  .how-it-works-right img {
+    height: 300px;
+  }
+
+  .step {
+    gap: 30px;
+    margin-bottom: 50px;
+  }
+
+  .step-number {
+    font-size: 50px;
+  }
+
+  .step-text h3 {
+    font-size: 18px;
+  }
+
+  .step-text p {
+    font-size: 14px;
+  }
+
+  /* Описание */
+  .description {
+    font-size: 16px;
+    padding: 0 20px;
+    margin-bottom: 40px;
+  }
+
+  /* Заголовок секции */
+  .section-title {
+    font-size: 28px;
+    margin-bottom: 40px;
+  }
+
+  /* Заголовок комнаты */
+  .room-title {
+    font-size: 22px;
+    padding: 0 20px;
+  }
+
+  /* Разделитель */
+  .room-divider {
+    width: calc(100% - 40px);
+    margin: 0 20px 30px;
+  }
+
+  /* Сетка комнат */
+  .room-grid {
+    flex-direction: column;
+    padding: 0 20px;
+    gap: 40px;
+  }
+
+  .room-item {
+    width: 100%;
+  }
+
+  .room-item img {
+    height: 200px;
+  }
+
+  .room-item-info {
+    flex-direction: column;
+    gap: 15px;
+    align-items: flex-start;
+  }
+
+  .room-item-info button {
+    width: 100%;
+    padding: 18px;
+  }
+
+  /* Кнопка каталога */
+  .catalog-btn-container {
+    margin: 40px 0 60px;
+  }
+
+  .catalog-btn {
+    padding: 20px 60px;
+    font-size: 14px;
+  }
+
+  /* Футер */
+  .footer-top {
+    flex-direction: column;
+    padding: 30px 20px;
+    gap: 30px;
+    align-items: center;
+    text-align: center;
+  }
+
+  .footer-nav {
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+  }
+
+  .footer-nav a {
+    font-size: 14px;
+  }
+
+  .footer-links {
+    gap: 15px;
+  }
+
+  .footer-links a {
+    font-size: 14px;
+  }
+
+  .footer-bottom {
+    padding: 25px 0;
+  }
+
+  .footer-bottom span {
+    font-size: 14px;
+  }
+}
